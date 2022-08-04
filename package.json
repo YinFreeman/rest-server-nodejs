@@ -4,7 +4,7 @@
   "description": "Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "keywords": [],
   "author": "",
